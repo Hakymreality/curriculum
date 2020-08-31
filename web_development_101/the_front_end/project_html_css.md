@@ -96,8 +96,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 
 * Add your solution below this line!
 * [Reize00's Solution (Easy)](https://github.com/Reize00/google-homepage) - [View in Browser](https://reize00.github.io/google-homepage/)
-* [aderose's Solution (Difficult)](https://github.com/aderose/google-search-page/) - [View in Browser](https://aderose.github.io/google-search-page/)
-* [aderose's Solution (Easy)](https://github.com/aderose/google-homepage) - [View in Browser](https://aderose.github.io/google-homepage/)
+* [Aderose's Solution (Difficult)](https://github.com/aderose/google-search-page/) - [View in Browser](https://aderose.github.io/google-search-page/)
+* [Aderose's Solution (Easy)](https://github.com/aderose/google-homepage) - [View in Browser](https://aderose.github.io/google-homepage/)
 * [Christopher Mendez's Solution (Easy)](https://github.com/cmendez20/google-homepage) - [View in Browser](https://cmendez20.github.io/google-homepage/)
 * [Koalatree's Solution (Easy)](https://github.com/koalatree/google-homepage) - [View in Browser](https://koalatree.github.io/google-homepage/)
 * [@theghos1980 - Saturno Mangieri (Easy)](https://github.com/theghost1980/google-homepage) - [View in Browser](https://theghost1980.github.io/google-homepage/google-search-easy.html)
